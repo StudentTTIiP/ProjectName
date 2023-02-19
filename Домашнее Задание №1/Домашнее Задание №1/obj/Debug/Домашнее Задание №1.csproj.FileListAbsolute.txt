@@ -1,0 +1,8 @@
+C:\Users\fok6a\OneDrive\Рабочий стол\Игры C#\Домашнее Задание №1\Домашнее Задание №1\bin\Debug\Домашнее Задание №1.exe.config
+C:\Users\fok6a\OneDrive\Рабочий стол\Игры C#\Домашнее Задание №1\Домашнее Задание №1\bin\Debug\Домашнее Задание №1.exe
+C:\Users\fok6a\OneDrive\Рабочий стол\Игры C#\Домашнее Задание №1\Домашнее Задание №1\bin\Debug\Домашнее Задание №1.pdb
+C:\Users\fok6a\OneDrive\Рабочий стол\Игры C#\Домашнее Задание №1\Домашнее Задание №1\obj\Debug\Домашнее Задание №1.csproj.AssemblyReference.cache
+C:\Users\fok6a\OneDrive\Рабочий стол\Игры C#\Домашнее Задание №1\Домашнее Задание №1\obj\Debug\Домашнее Задание №1.csproj.SuggestedBindingRedirects.cache
+C:\Users\fok6a\OneDrive\Рабочий стол\Игры C#\Домашнее Задание №1\Домашнее Задание №1\obj\Debug\Домашнее Задание №1.csproj.CoreCompileInputs.cache
+C:\Users\fok6a\OneDrive\Рабочий стол\Игры C#\Домашнее Задание №1\Домашнее Задание №1\obj\Debug\Домашнее Задание №1.exe
+C:\Users\fok6a\OneDrive\Рабочий стол\Игры C#\Домашнее Задание №1\Домашнее Задание №1\obj\Debug\Домашнее Задание №1.pdb
