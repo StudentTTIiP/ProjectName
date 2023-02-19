@@ -1,0 +1,15 @@
+E:\Фокша Кирилл 113 группа\ConsoleApp9\bin\Debug\ConsoleApp9.exe.config
+E:\Фокша Кирилл 113 группа\ConsoleApp9\bin\Debug\ConsoleApp9.exe
+E:\Фокша Кирилл 113 группа\ConsoleApp9\bin\Debug\ConsoleApp9.pdb
+E:\Фокша Кирилл 113 группа\ConsoleApp9\obj\Debug\ConsoleApp9.csproj.AssemblyReference.cache
+E:\Фокша Кирилл 113 группа\ConsoleApp9\obj\Debug\ConsoleApp9.csproj.CoreCompileInputs.cache
+E:\Фокша Кирилл 113 группа\ConsoleApp9\obj\Debug\ConsoleApp9.exe
+E:\Фокша Кирилл 113 группа\ConsoleApp9\obj\Debug\ConsoleApp9.pdb
+C:\Users\fok6a\OneDrive\Рабочий стол\ТТИиП\Информатика\1 курс\C#\Регистрация, вход, цикл с цифрами и номер месяца\bin\Debug\ConsoleApp9.exe.config
+C:\Users\fok6a\OneDrive\Рабочий стол\ТТИиП\Информатика\1 курс\C#\Регистрация, вход, цикл с цифрами и номер месяца\bin\Debug\ConsoleApp9.exe
+C:\Users\fok6a\OneDrive\Рабочий стол\ТТИиП\Информатика\1 курс\C#\Регистрация, вход, цикл с цифрами и номер месяца\bin\Debug\ConsoleApp9.pdb
+C:\Users\fok6a\OneDrive\Рабочий стол\ТТИиП\Информатика\1 курс\C#\Регистрация, вход, цикл с цифрами и номер месяца\obj\Debug\ConsoleApp9.csproj.AssemblyReference.cache
+C:\Users\fok6a\OneDrive\Рабочий стол\ТТИиП\Информатика\1 курс\C#\Регистрация, вход, цикл с цифрами и номер месяца\obj\Debug\ConsoleApp9.csproj.SuggestedBindingRedirects.cache
+C:\Users\fok6a\OneDrive\Рабочий стол\ТТИиП\Информатика\1 курс\C#\Регистрация, вход, цикл с цифрами и номер месяца\obj\Debug\ConsoleApp9.csproj.CoreCompileInputs.cache
+C:\Users\fok6a\OneDrive\Рабочий стол\ТТИиП\Информатика\1 курс\C#\Регистрация, вход, цикл с цифрами и номер месяца\obj\Debug\ConsoleApp9.exe
+C:\Users\fok6a\OneDrive\Рабочий стол\ТТИиП\Информатика\1 курс\C#\Регистрация, вход, цикл с цифрами и номер месяца\obj\Debug\ConsoleApp9.pdb
